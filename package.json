@@ -1,0 +1,25 @@
+{
+  "name": "blessed-examples",
+  "version": "1.0.0",
+  "description": "examples for how to actually pass data into npm blessed-contrib",
+  "main": "index.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "redis": "^2.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesacampbell/blessed-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesacampbell/blessed-examples/issues"
+  },
+  "homepage": "https://github.com/jamesacampbell/blessed-examples#readme"
+}
