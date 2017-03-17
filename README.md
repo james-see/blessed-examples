@@ -3,7 +3,7 @@ examples for how to actually pass data into npm blessed-contrib
 
 ## assumptions
 
-1. you had redis installed
+1. you have redis installed
 2. you have node installed
 3. you understand how npm & node works
 
