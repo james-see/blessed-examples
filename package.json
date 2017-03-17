@@ -1,11 +1,12 @@
 {
   "name": "blessed-examples",
-  "version": "1.0.2",
-  "description": "examples for blessed",
+  "version": "1.0.3",
+  "description": "a way to put data into a chart for blessed-contrib",
   "main": "index.js",
   "dependencies": {
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.7.5",
+    "bluebird": "^3.5.0",
     "promise": "^7.1.1",
     "redis": "^2.7.1"
   },
@@ -17,10 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/jamesacampbell/blessed-examples.git"
   },
-  "keywords": [
-    "blessed"
-  ],
-  "author": "JC",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jamesacampbell/blessed-examples/issues"
